@@ -1,4 +1,4 @@
-# Coffee_simple_webpage
+
 # Simple Coffee Website
 
 Welcome to the **Simple Coffee Website**! This project is a static website designed using only **HTML** and **CSS**, showcasing a modern coffee shop layout.
@@ -56,6 +56,11 @@ Check out the live demo here: [Live Demo Link](#) *(Replace with actual link if 
 Feel free to fork this repository, make improvements, and submit pull requests!
 
 ## 📧 Contact
+Author
+
+👤 Ankit (ankit1068)
+
+GitHub: ankit1068
 For any inquiries or suggestions, reach out at ankitrajj1068@gmail.com
 
 ---
